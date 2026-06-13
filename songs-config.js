@@ -1,6 +1,13 @@
 window.SONGS_CONFIG = [
   {
     "repo": 1,
+    "movie": "Aadhavan",
+    "songs": [
+      "Vaarayo Vaarayo.mpeg"
+    ]
+  },
+  {
+    "repo": 1,
     "movie": "Goat",
     "songs": [
       "Chinna Chinna Kangal.mpeg",
